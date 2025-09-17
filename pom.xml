@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.basicapis</groupId>
-	<artifactId>basic-rest-apis</artifactId>
+	<artifactId>vpp-basic-rest-apis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Basic REST APIs without DB</name>
 	<description>Project for Spring Boot</description>
